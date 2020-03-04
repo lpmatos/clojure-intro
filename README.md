@@ -163,7 +163,7 @@ docker exec -it <CONTAINER_ID> <COMMAND>
 
 ## Usage
 
-<kbd>python ./main.py --help</kbd> - Helper
+<kbd>clj ./main.clj</kbd> - Clojure Interpreter
 
 ## Params
 
