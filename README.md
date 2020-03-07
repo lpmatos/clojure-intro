@@ -1,13 +1,9 @@
 Clojure Programming Language
 ============
 
-Just a repository to build some **Clojure** Scripts and Study this language
+Just a repository to build some **Clojure** Scripts and Study this language.
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/lpmatos)
-
-<->
-Put Some information in Here
-<->
 
 ## Copyright (c)
 
@@ -41,7 +37,7 @@ This will give access on your **local machine** to this project.
 Put Some information in Here
 <->
 
-## GitLab
+## Clojure
 
 <->
 Put Some information in Here
