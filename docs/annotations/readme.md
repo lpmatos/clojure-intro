@@ -13,3 +13,18 @@ Até agora vimos:
 * Adicionar elemento a um vetor com **conj**.
 * Que Clojure é imutável.
 * Criar funções com **defn**.
+
+Existem várias maneiras de analisar a linguagem Clojure.
+
+Alguns pontos frequentemente levantados são:
+
+* Hospedado:
+    * Na JVM com Clojure.
+    * Em tempos de execução do JavaScript como ClojureScript.
+    * No CLR como arquivos .cljr.
+* Funcional em oposição a Orientado a Objetos.
+* List.
+* Orientado a Dados.
+* Clojure são dados.
+* Tem uma sintaxe literal.
+* Clojure não tem interprete.

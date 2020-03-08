@@ -37,11 +37,15 @@ This will give access on your **local machine** to this project.
 Put Some information in Here
 <->
 
-## Clojure
+## Clojure intro
 
-<->
-Put Some information in Here
-<->
+This is an introduction to [[https://clojure.org/][Clojure]], a family of hosted functional programming languages in the [[https://en.wikipedia.org/wiki/Lisp_(programming_language)][Lisp]] tradition.
+
+The version of Clojure described here is hosted on [[https://en.wikipedia.org/wiki/Java_(programming_language)][Java]] and runs on the [[https://en.wikipedia.org/wiki/Java_virtual_machine][Java Virtual Machine (JVM)]]. There are recent Clojure versions compatible with all the [[https://www.oracle.com/java/index.html][SUN/Oracle]] and [[http://openjdk.java.net/][OpenJDK]] versions commonly in use.
+
+The other popular version of Clojure is called [[https://clojurescript.org/][ClojureScript]]. ClojureScript is hosted on [[https://www.javascript.com/][Javascript]] and runs on any Javascript engine that supports the Google [[https://developers.google.com/closure/][Closure]] tool chain.
+
+This is an introduction to the Clojure language only. It discusses syntax, semantics, and a bit about how the language [[https://en.wikipedia.org/wiki/Just_So_Stories][got its spots]]: why Clojure looks the way it does and how to work with it. The concepts discussed in this introduction are relevant to any Clojure variant. There are other concepts around setting up projects: loading dependencies, establishing class and resource paths, and so on, that this introduction does not cover yet.
 
 ## Pre-Requisites
 
